@@ -1,2 +1,3 @@
 Meine erste Zeile auf dem Server geschrieben
+<<<<<<< HEAD
 eine zweite Zeile
